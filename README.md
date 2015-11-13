@@ -1,3 +1,3 @@
 # FirstSetup
 
-Readme file is this
+This repository is just to try out some ideas
